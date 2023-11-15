@@ -2,7 +2,7 @@
 
 ## About Me
 
-Resume: <a href="https://www.notion.so/Backend-Developer-48284c64ccd24bb3810ef76220ef8d58?pvs=4">이소희(Backend Developer)</a>
+Resume: <a href="">이소희(Backend Developer)</a>
 
 Blog: https://velog.io/@lshlovejys
 
