@@ -2,8 +2,6 @@
 
 ## About Me
 
-Resume: <a href="">이소희(Backend Developer)</a>
-
 Blog: https://velog.io/@lshlovejys
 
 Email: <a href="mailto:soheee9048@gmail.com">soheee9048@gmail.com</a>
